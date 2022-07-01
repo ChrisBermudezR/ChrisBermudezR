@@ -9,3 +9,16 @@ En las primeras etapas de mi carrera me dediqué a la [docencia universitaria](h
 Todo este camino me ha llevado a desarrollar mis habilidades en el campo de la programación en diferentes lenguajes como **R**, :snake: y :coffee:, enfocandome en el análisis de datos espaciales y de sensores remotos de observación de la tierra y el océano.
 
 <img src="Banner.png" style="width: 100%" />
+
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/chrisbermudezr/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+   <a href="https://twitter.com/ChrisBermudezR">
+     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a> 
+   <a href="https://www.youtube.com/channel/UCqOIlsepzeVXdnndB6xtbWQ">
+     <img src="https://www.youtube.com/channel/UCs6uCsGMk2wCZJgAU9Zd2RQ?channel_created=1">
+  </a>
+</p>
