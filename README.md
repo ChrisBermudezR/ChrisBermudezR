@@ -11,6 +11,7 @@ Todo este camino me ha llevado a desarrollar mis habilidades en el campo de la p
 <img src="Banner.png" style="width: 100%" />
 
 
+
 <p align='center'>
   <a href="https://www.linkedin.com/in/chrisbermudezr/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -18,7 +19,7 @@ Todo este camino me ha llevado a desarrollar mis habilidades en el campo de la p
    <a href="https://twitter.com/ChrisBermudezR">
      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a> 
-   <a href="https://www.youtube.com/channel/UCqOIlsepzeVXdnndB6xtbWQ">
-     <img src="https://www.youtube.com/channel/UCs6uCsGMk2wCZJgAU9Zd2RQ?channel_created=1">
+   <a href="https://www.youtube.com/channel/UCs6uCsGMk2wCZJgAU9Zd2RQ?channel_created=1">
+     <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
