@@ -6,5 +6,6 @@ Desde los primeros semestres de la carrera me interesé mucho por la **biología
 
 En las primeras etapas de mi carrera me dediqué a la [docencia universitaria](teaching) y la consultoría en biología de campo en diferentes proyectos (*e.g.* [Instituto Alexander von Humboldt](http://www.humboldt.org.co/es/), Colombia;  [Ecuambiente](https://www.ecuambiente.com/), Ecuador), sin embargo y gracias a mis habilidades en el campo de la geomática inicié como investigador en la [Dirección General Marítima](https://www.dimar.mil.co/), donde he apoyado la investigación en un campo diferente al que me había dedicado, **el océano**  :ocean:.
 
+Todo este camino me ha llevado a desarrollar mis habilidades en el campo de la programación en diferentes lenguajes como **R**, :snake: y :coffe:, enfocandome en el análisis de datos espaciales y de sensores remotos de observación de la tierra y el océano.
 
 <img src="Banner.png" style="width: 100%" />
