@@ -8,6 +8,17 @@ En las primeras etapas de mi carrera me dediqué a la [docencia universitaria](h
 
 Todo este camino me ha llevado a desarrollar mis habilidades en el campo de la programación en diferentes lenguajes como **R**, :snake: y :coffee:, enfocandome en el análisis de datos espaciales y de sensores remotos de observación de la tierra y el océano.
 
+
+
+Hello 👋, my name is Christian Bermúdez-Rivas, I am a biologist and I work as a scientific researcher in the area of Marine Environmental Protection at the Pacific Oceanographic and Hydrographic Research Center of the General Maritime Directorate. I studied my professional career and my master's degree at the Universidad del Valle. I developed an interest in spatial analysis during my career and studied a technological specialization in Geographic Information Systems at the National Learning Service - SENA.
+
+Since the first semesters of my career I was very interested in invertebrate biology (e.g., soil arthropods, soil arthropods, arthropods and invertebrates). Soil arthropods, canopy arthropods, aquatic invertebrates), ecology and conservation biology from a focus on spatial analysis, therefore I began to study emerging geographic technologies such as geographic information systems and geomatics; for this reason I developed my undergraduate work on the distribution of dragonflies in the department of Valle del Cauca - Colombia and later developed my master's thesis on the distribution patterns of biodiversity of soil arthropods.
+
+In the early stages of my career I dedicated myself to university teaching and consulting in field biology in different projects (e.g. Alexander von Humboldt Institute, Colombia; Ecuambiente, Ecuador), however and thanks to my skills in the field of geomatics I started as a researcher in the General Maritime Directorate, where I have supported research in a different field to which I had been dedicated, the ocean 🌊.
+
+All this path has led me to develop my skills in the field of programming in different languages such as R, 🐍 and ☕, focusing on the analysis of spatial data and remote sensing of land and ocean observation.
+
+
 <img src="Banner.png" style="width: 100%" />
 
 
