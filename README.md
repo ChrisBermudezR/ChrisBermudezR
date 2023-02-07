@@ -10,13 +10,13 @@ Todo este camino me ha llevado a desarrollar mis habilidades en el campo de la p
 
 
 
-Hello 👋, my name is Christian Bermúdez-Rivas, I am a biologist and I work as a scientific researcher in the area of Marine Environmental Protection at the Pacific Oceanographic and Hydrographic Research Center of the General Maritime Directorate. I studied my professional career and my master's degree at the Universidad del Valle. I developed an interest in spatial analysis during my career and studied a technological specialization in Geographic Information Systems at the National Learning Service - SENA.
+Hello 👋, my name is Christian Bermúdez-Rivas. I am a biologist and a scientific researcher in Marine Environmental Protection at the Pacific Oceanographic and Hydrographic Research Center of the General Maritime Directorate. I earned my professional degree and Master's from Universidad del Valle. I developed an interest in spatial analysis during my studies and pursued a technology specialization in Geographic Information Systems from the National Learning Service (SENA).
 
-Since the first semesters of my career I was very interested in invertebrate biology (e.g., soil arthropods, soil arthropods, arthropods and invertebrates). Soil arthropods, canopy arthropods, aquatic invertebrates), ecology and conservation biology from a focus on spatial analysis, therefore I began to study emerging geographic technologies such as geographic information systems and geomatics; for this reason I developed my undergraduate work on the distribution of dragonflies in the department of Valle del Cauca - Colombia and later developed my master's thesis on the distribution patterns of biodiversity of soil arthropods.
+From my early career, I was drawn to the study of invertebrates (e.g., soil arthropods, canopy arthropods, and aquatic invertebrates), ecology, and conservation biology with a focus on spatial analysis. This led me to explore emerging geographic technologies such as GIS and geomatics. As a result, my undergraduate work centered on the distribution of dragonflies in Valle del Cauca, Colombia. I then continued to study the distribution patterns of soil arthropod biodiversity in my Master's thesis.
 
-In the early stages of my career I dedicated myself to university teaching and consulting in field biology in different projects (e.g. Alexander von Humboldt Institute, Colombia; Ecuambiente, Ecuador), however and thanks to my skills in the field of geomatics I started as a researcher in the General Maritime Directorate, where I have supported research in a different field to which I had been dedicated, the ocean 🌊.
+In the beginning of my career, I taught university courses and provided field biology consulting for various projects (e.g., Alexander von Humboldt Institute in Colombia and Ecuambiente in Ecuador). However, thanks to my expertise in geomatics, I transitioned to research at the General Maritime Directorate, where I support research in the field of oceanography 🌊.
 
-All this path has led me to develop my skills in the field of programming in different languages such as R, 🐍 and ☕, focusing on the analysis of spatial data and remote sensing of land and ocean observation.
+This journey has honed my programming skills in languages such as R, 🐍, and ☕, with a focus on spatial data analysis and remote sensing of land and ocean observations.
 
 
 <img src="Banner.png" style="width: 100%" />
