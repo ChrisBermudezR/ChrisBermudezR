@@ -21,10 +21,11 @@ This journey has honed my programming skills in languages such as R, üêç, and ‚
 
 <img src="Banner.png" style="width: 100%" />
 
+<p align='center'>
 [![GitHub Badge](https://img.shields.io/github/followers/ChrisBermudezR?style=social)](https://github.com/ChrisBermudezR?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/ChrisBermudezR?style=social)](https://twitter.com/ChrisBermudezR)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/chrisbermudezr/)
-
+</p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/chrisbermudezr/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
